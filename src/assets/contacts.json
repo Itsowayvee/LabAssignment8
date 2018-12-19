@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "firstName": "Vee",
+        "lastName": "Her",
+        "email": "veeher@mail.fresnostate.edu",
+        "phone": "(559) 000-0000",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Mike",
+        "lastName": "Tyson",
+        "email": "tuffguy@yahoo.com",
+        "phone": "(559) 123-0000"
+    },
+    {
+        "id": 3,
+        "firstName": "Joe",
+        "lastName": "Biden",
+        "email": "jbiden@yahoo.com",
+        "phone": "(559) 000-1234"
+    }
+]
